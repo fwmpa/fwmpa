@@ -7,5 +7,3 @@ Currently deepening my expertise in: **Python · NumPy · Pandas · ML fundament
 **Current Stack:** Python · Playwright · TypeScript · Pytest · GitHub Actions · Docker  
 **Learning:** Scikit-learn · MLflow · LLM Evaluation · AWS SageMaker
 
-**Projects in Progress:**
-* **ci-analytics** — CI/CD pipeline analysis with Pandas (work in progress)
